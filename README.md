@@ -4,8 +4,3 @@
 
 This is my personal website with my latest data science projects and coursework.
 
-
-
-
-# colestriler
-# colestriler
