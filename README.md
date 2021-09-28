@@ -2,5 +2,5 @@
 
 
 
-[cole.so](https://www.cole.so/): This is my bio website.
+[cole.so](https://www.cole.so/): My bio website.
 
