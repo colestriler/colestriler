@@ -2,5 +2,5 @@
 
 
 
-[colestriler.com](https://www.colestriler.com/): My bio website.
+[colestriler.com](http://www.colestriler.com/): My bio website.
 
